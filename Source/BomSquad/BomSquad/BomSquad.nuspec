@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.1-alpha001</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/stevecooperorg/BomSquad/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/stevecooperorg/BomSquad/blob/master/LICENSE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First version to NuGet.</releaseNotes>
+    <copyright>MIT License</copyright>
+    <tags></tags>
+  </metadata>
+</package>
